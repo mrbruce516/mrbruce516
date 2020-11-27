@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi，我是Bruce<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrbruce516&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Bruce Zheng github stats"/>
+
+很高兴你能看到此页，我喜欢研究各类让数字生活更愉快的技术，喜欢折腾各类电子产品～
+
+- 🤔 我最近在研究什么? [去我的网站看看吧](https://mrbruce516.top/posts/)
 
 <!--
 **mrbruce516/mrbruce516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
