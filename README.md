@@ -4,8 +4,6 @@
 
 很高兴你能看到此页，我喜欢研究各类让数字生活更愉快的技术，喜欢折腾各类电子产品～
 
-- 🤔 我最近在研究什么? [去我的网站看看吧](https://mrbruce516.top/posts/)
-
 <!--
 **mrbruce516/mrbruce516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
