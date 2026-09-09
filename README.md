@@ -1,5 +1,3 @@
-### Hi，我是Bruce<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
----
 ### Talk is cheap 👋 Show me your prompt
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/mrbruce516/svg?view=3d&period=month&compact=1)](https://tokscale.ai/u/mrbruce516?period=month)
