@@ -2,8 +2,9 @@
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrbruce516&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Bruce Zheng github stats"/>
 
-很高兴你能看到此页，我喜欢研究各类让数字生活更愉快的技术，喜欢折腾各类电子产品～
+### Talk is cheap 👋 Show me your prompt
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/mrbruce516/svg?view=3d&period=month&compact=1)](https://tokscale.ai/u/mrbruce516?period=month)
 <!--
 **mrbruce516/mrbruce516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
