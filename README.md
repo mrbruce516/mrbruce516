@@ -1,7 +1,5 @@
 ### Hi，我是Bruce<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrbruce516&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Bruce Zheng github stats"/>
-
 ### Talk is cheap 👋 Show me your prompt
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/mrbruce516/svg?view=3d&period=month&compact=1)](https://tokscale.ai/u/mrbruce516?period=month)
